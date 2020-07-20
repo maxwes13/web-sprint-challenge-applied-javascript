@@ -28,13 +28,24 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+Document Object Model. Interface for the HTML and XML documents.  These documents can be manipulated through other
+programs that can connect to, and read, the DOM.  You can change the structure, style, and content. 
+
 2. What is an event?
+
+An action that takes place on any of the HTML elements.
 
 3. What is an event listener?
 
+JavaScript method that listens to user actions and performs using a callback function.
+
 4. Why would we convert a NodeList into an Array?
 
+To be able to use array methods like .filter, .map, and .reduce on it.
+
 5. What is a component?
+
+A structure that we can rebuild and reuse (with JavaScript) within our HTML.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
